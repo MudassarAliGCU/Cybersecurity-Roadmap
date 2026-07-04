@@ -62,18 +62,20 @@ Current Focus:
 
 # 📂 Repository Navigation
 
+# 📂 Repository Navigation
+
 | Folder | Description |
-|---------|-------------|
-| 📁 01-IT-Fundamentals | Computer hardware, operating systems, troubleshooting, and foundational IT concepts |
-| 📁 02-Networking | Networking concepts, protocols, services, and labs |
-| 📁 03-Linux | Linux fundamentals, administration, commands, and scripting |
-| 📁 04-Programming | Python, Bash, PowerShell, and Git |
-| 📁 05-Security | Cybersecurity concepts, cryptography, risk management, and defense |
-| 📁 06-Penetration-Testing | Reconnaissance, exploitation, privilege escalation, reporting, and labs |
-| 📁 07-Projects | Personal cybersecurity projects |
-| 📁 08-Scripts | Automation scripts and security tools |
-| 📁 09-Certifications | Certification notes and progress tracking |
-| 📁 10-Resources | Books, cheat sheets, websites, and references |
+|--------|-------------|
+| 📁 [01-IT-Fundamentals](./01-IT-Fundamentals/) | Computer hardware, operating systems, troubleshooting, and foundational IT concepts |
+| 📁 [02-Networking](./02-Networking/) | Networking concepts, protocols, services, and labs |
+| 📁 [03-Linux](./03-Linux/) | Linux fundamentals, administration, commands, and scripting |
+| 📁 [04-Programming](./04-Programming/) | Python, Bash, PowerShell, and Git |
+| 📁 [05-Security](./05-Security/) | Cybersecurity concepts, cryptography, risk management, and defense |
+| 📁 [06-Penetration-Testing](./06-Penetration-Testing/) | Reconnaissance, exploitation, privilege escalation, reporting, and labs |
+| 📁 [07-Projects](./07-Projects/) | Personal cybersecurity projects |
+| 📁 [08-Scripts](./08-Scripts/) | Automation scripts and security tools |
+| 📁 [09-Certifications](./09-Certifications/) | Certification notes and progress tracking |
+| 📁 [10-Resources](./10-Resources/) | Books, cheat sheets, websites, and references |
 
 ---
 
