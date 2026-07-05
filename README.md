@@ -60,7 +60,6 @@ Current Focus:
 
 ---
 
-# 📂 Repository Navigation
 
 # 📂 Repository Navigation
 
