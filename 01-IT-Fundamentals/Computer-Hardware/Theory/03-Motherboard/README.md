@@ -18,7 +18,7 @@ A computer’s motherboard is typically the largest printed circuit board in a m
 Since different kinds of processors and memories are intended to function best with certain types of motherboards, it is difficult to find a motherboard that is compatible with every type of CPU and memory. Hard drives, on the other hand, are generally compatible with a wide variety of motherboards and may be used with most brands and types.
 
 <p align="center">
-  <img src="../../Screenshots/MotherBorad.avif" width="700">
+  <img src="../../Screenshots/Motherboard.png" width="700" alt="Motherboard">
 </p>
 
 A computer motherboard may be found inside a computer casing, which is the point of connection for most of the computer’s elements and peripherals. When it comes to tower computers, one may look for a motherboard on either the right or left side of the tower; the circuit board is the most significant.
