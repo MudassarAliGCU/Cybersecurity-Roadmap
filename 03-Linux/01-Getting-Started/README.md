@@ -3,7 +3,7 @@
 > A beginner-friendly, exam-ready, and portfolio-ready deep dive into Linux — the operating system that quietly runs most of the internet, the cloud, and the cybersecurity tools you're about to master.
 
 <p align="center">
-<img src="images/Monochrome_Tux.svg" width="180">
+<img src="images/LinuxLogo.png" >
 </p>
 
 ---
@@ -419,5 +419,11 @@ This section explains the Linux filesystem hierarchy, important directories like
 ➡️ **[Continue to File System Overview](File-System-Overview.md)**
 
 ---
+
+## ➡️ Next Chapter
+
+In the next chapter, we will dive into the **Linux Terminal**. You will learn how to navigate the command line, execute essential commands, and interact with the operating system like a true power user — the foundational skill required before setting up your hands-on security labs.
+
+Read the next chapter here: **[Chapter no. 2 Terminal](../02-Terminal/README.md)**
 
 
