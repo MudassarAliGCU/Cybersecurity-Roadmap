@@ -17,9 +17,7 @@ A computer’s motherboard is typically the largest printed circuit board in a m
 
 Since different kinds of processors and memories are intended to function best with certain types of motherboards, it is difficult to find a motherboard that is compatible with every type of CPU and memory. Hard drives, on the other hand, are generally compatible with a wide variety of motherboards and may be used with most brands and types.
 
-<p align="center">
-  <img src="../../Screenshots/Motherboard.png" width="700" alt="Motherboard">
-</p>
+<img src="./images/Motherboard.png" width="700">
 
 A computer motherboard may be found inside a computer casing, which is the point of connection for most of the computer’s elements and peripherals. When it comes to tower computers, one may look for a motherboard on either the right or left side of the tower; the circuit board is the most significant.
 
@@ -96,9 +94,7 @@ The information sent over buses will be encoded using a programming language (1 
 ## 12 Key Components of a Motherboard
 The following are the key components of a motherboard:
 
-<p align="center">
-  <img src="../../Screenshots/ComponentsOfMotherboard.png" width="700">
-</p>
+<img src="./images/ComponentsOfMotherboard.png" width="700">
 
 ### 1. Mouse and keyboard connectors 
 Computer motherboards must have two separate connectors that allow users to connect their external mouse and keyboard. These connectors are responsible for sending instructions and receiving responses from the computer. There are two keyboard and mouse connectors, the PS/2 and the USB. The personal system/2(PS/2) port is a mini-DIN plug that contains six pins and connects the mouse or keyboard to an IBM-compatible computer. Other computers use the USB port to connect the mouse or keyboard.
@@ -149,9 +145,7 @@ The power connector provides an electric supply to the computer to function as i
 ## Functions of a Motherboard
 The following are seven functions of a motherboard:
 
-<p align="center">
-  <img src="../../Screenshots/FunctionsOfMotherboard.png" width="700">
-</p>
+<img src="./images/FunctionsOfMotherboard.png" width="700">
 
 ### 1. Manages data flow 
 The BIOS component of the motherboard ensures that the operating system interacts well with input and output devices, such as the keyboard and mouse, to process instructions. This ensures that the data sent to the computer moves as expected to perform the intended purpose. It also manages data flow through its USB ports, allowing for data transfer between devices. Additionally, it ensures the processor can access information from the RAM to boost efficiency.

@@ -13,9 +13,7 @@ The microprocessor relies on other devices:
 * To transfer the instructions to it so that it can carry them out
 * To carry out the commands it issues e.g. to print an essay or display an image.
 
-<p align="center">
-  <img src="../../Screenshots/CPU.png" width="700">
-</p>
+<img src="./images/CPU.png" width="700">
 
 > **ℹ️ Fact Box**
 > ENIAC, the first computer, was 8 feet high and 100 feet long and far less powerful than today's laptop.
@@ -35,9 +33,7 @@ The microprocessor is the central processing unit (CPU) of the computer. It is h
 ### Von Neumann Architecture
 The way the CPU is designed and executes (carries out) the program instructions is known as **'von Neumann architecture'**. In 1945, John von Neumann proposed his design for a **'stored program'** computer where both the program and data were stored in the memory. Previously, computers had to be rebuilt for each new program that was needed!
 
-<p align="center">
-  <img src="../../Screenshots/CPU2.png" width="700">
-</p>
+<img src="./images/CPU2.png" width="700">
 
 
 ### Buses
@@ -67,18 +63,14 @@ In the fetch part of the cycle, instructions and data are moved from the random 
 * **Address Bus Execution:** The CPU sends a signal to the RAM requesting the next instruction or the data to be used.
 * **Data Bus Execution:** The instruction or data are sent to the CPU.
 
-<p align="center">
-  <img src="../../Screenshots/Fetch.png" width="700">
-</p>
+<img src="./images/Fetch.png" width="700">
 
 ### The Execute Phase
 In the execute part of the cycle, the control unit decodes or interprets the instructions and decides what action to perform. These instructions are then carried out.
 * **Control Unit (CU) Action:** The control unit decodes the instruction — it decides what it means and carries it out. If a calculation needs to be performed, then it instructs the ALU.
 * **Arithmetic and Logic Unit (ALU) Action:** If a calculation needs to be carried out, it is performed by the ALU.
 
-<p align="center">
-  <img src="../../Screenshots/Execute.png" width="700">
-</p>
+<img src="./images/Execute.png" width="700">
 
 ### Summary Summary of Processing Steps
 1. **Fetch:** An instruction is transferred from the memory to the CPU.
@@ -169,18 +161,14 @@ The solution to this bottleneck problem is to use faster memory very close to, o
 * In a multi-core processor each core has its own L1 and L2 caches while the Last Level Cache (L3) is usually shared by all the cores.
 
 #### Multi-Core Cache Topology Map
-<p align="center">
-  <img src="../../Screenshots/No.of%20cores.png" width="700">
-</p>
+<img src="./images/No.of%20cores.png" width="700">
 
 
 ### Number of Cores
 Manufacturers introduced multi-core processors in 2006 to increase processing speed. A multi-core processor has more than one CPU. 
 
 #### Dual-Core Architecture View
-<p align="center">
-  <img src="../../Screenshots/Core.png" width="700">
-</p>
+<img src="./images/Core.png" width="700">
 
 #### Processor Core Nomenclature Table
 | Number of Cores | Common Name |
@@ -221,3 +209,9 @@ In an embedded system, resources such as memory are limited and the hardware com
 > * **Hardware:** The physical components making up the computer, and its peripheral devices.
 
 ---
+
+# 📚 Next Chapter
+
+➡️ **Motherboard**
+
+In the next chapter, you'll learn how the **motherboard** serves as the backbone of a computer, connecting all hardware components, enabling communication between them, and providing the sockets, slots, ports, chipsets, and firmware that allow the entire system to function together.
