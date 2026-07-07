@@ -376,3 +376,48 @@ Linux knowledge is **non-negotiable** for security professionals because:
 ---
 
 
+---
+
+# 🚀 Why Linux for Cybersecurity?
+
+Now that you understand what Linux is, its history, architecture, and core concepts, the next step is understanding why Linux is so important in the cybersecurity field.
+
+This section explains how Linux is used by security professionals, penetration testers, system administrators, and cloud engineers.
+
+➡️ **[Continue to Why Linux for Cybersecurity](Why-Linux-for-Cybersecurity.md)**
+
+---
+
+---
+
+# 🐧 Linux Distributions
+
+Linux is available in many different distributions, each designed for different purposes.
+
+In the next section, you will learn about popular Linux distributions such as Ubuntu, Debian, Kali Linux, Fedora, and their common use cases in cybersecurity and IT.
+
+➡️ **[Continue to Linux Distributions](Linux-Distributions.md)**
+
+---
+# 🚀 Next Step: Installation Process
+
+Now that you understand what Linux is, why it's important, and how it works, it's time to install it and set up your learning environment.
+
+In the next guide, you'll learn how to install **Ubuntu Linux** using **VirtualBox** or **VMware**, create a virtual machine, and prepare a safe environment for practicing Linux commands and cybersecurity labs.
+
+➡️ **Continue to:** **[Installation Process](Installation.md)**
+
+---
+---
+
+# 📂 Linux File System Overview
+
+After installing Linux, the next important skill is understanding how Linux organizes files and directories.
+
+This section explains the Linux filesystem hierarchy, important directories like `/etc`, `/home`, `/var`, `/usr`, and how the operating system stores and manages data.
+
+➡️ **[Continue to File System Overview](File-System-Overview.md)**
+
+---
+
+
