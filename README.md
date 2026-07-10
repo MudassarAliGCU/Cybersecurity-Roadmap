@@ -7,7 +7,7 @@
 <p>
 <img src="https://img.shields.io/badge/Status-Learning-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/Current-CompTIA%20A%2B-success?style=for-the-badge">
-<img src="https://img.shields.io/badge/Focus-IT%20Fundamentals-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/Focus-Networking-orange?style=for-the-badge">
 </p>
 
 <p>
@@ -121,20 +121,29 @@ Cybersecurity-Roadmap
 
 ---
 
-# 📈 Learning Progress
+# 📈 Learning Dashboard
 
-| Subject | Progress |
-|----------|:-------:|
-| 🖥️ IT Fundamentals | 🟨 In Progress |
-| 🌐 Networking | ⬜ Planned |
-| 🐧 Linux | ⬜ Planned |
-| 🐍 Programming | ⬜ Planned |
-| 🔐 Cybersecurity | ⬜ Planned |
-| ☁️ Cloud Security | ⬜ Planned |
-| 🛡️ SOC Operations | ⬜ Planned |
-| 💥 Penetration Testing | ⬜ Planned |
-| 🏗️ Security Engineering | ⬜ Planned |
+> **Overall Progress:** **8%** &nbsp;&nbsp;•&nbsp;&nbsp; **Current Focus:** 🌐 Networking &nbsp;&nbsp;•&nbsp;&nbsp; **Next Goal:**  🐧 Linux Fundamentals
 
+| Module | Progress | Status | Topics | Repository |
+|:-------|:--------:|:------:|:------:|:----------:|
+| 🖥️ **IT Fundamentals** | **100%** | ✅ Completed | **15 / 15** | [Open](./01-IT-Fundamentals/Computer-Hardware/README.md) |
+| | | | | |
+| 🌐 **Networking** | **0%** | ⏳ In Progress | **0 / 15** | [Open](./02-Networking/README.md) |
+| | | | | |
+| 🐧 **Linux** | **20%** | 🚧 In Progress | **2 / 10** | [Open](./03-Linux/README.md) |
+| | | | | |
+| 💻 **Programming** | **0%** | ⏳ Planned | **0 / 8** | [Open](./04-Programming/README.md) |
+| | | | | |
+| 🛡️ **Cybersecurity** | **0%** | ⏳ Planned | **0 / 20** | [Open](./05-Cybersecurity/README.md) |
+| | | | | |
+| ☁️ **Cloud Security** | **0%** | ⏳ Planned | **0 / 8** | [Open](./06-Cloud-Security/README.md) |
+| | | | | |
+| 🎯 **Penetration Testing** | **0%** | ⏳ Planned | **0 / 12** | [Open](./07-Penetration-Testing/README.md) |
+| | | | | |
+| 📂 **Projects** | **0%** | ⏳ Planned | **0 / 10** | [Open](./08-Projects/README.md) |
+| | | | | |
+| 📜 **Certifications** | **0%** | ⏳ Planned | **0 / 6** | [Open](./10-Certifications/README.md) |
 ---
 
 # 🎓 Certification Roadmap

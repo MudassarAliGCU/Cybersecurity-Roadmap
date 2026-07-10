@@ -6,54 +6,58 @@
 
 # 📌 Overview
 
-Computer hardware refers to the physical components of a computer system. These components work together to process data, execute instructions, store information, and allow users to interact with the computer.
+Computer hardware forms the foundation of every computing system. Every operating system, application, and cybersecurity tool ultimately relies on physical hardware to function.
 
-This section serves as the central hub for all notes, labs, commands, resources, and practical work related to computer hardware.
+This module documents my study of computer hardware, covering the architecture, components, firmware, storage technologies, mobile devices, and troubleshooting techniques required for a strong foundation in IT and cybersecurity.
 
 ---
 
 # 🎯 Learning Objectives
 
-- Understand the purpose of each hardware component
-- Learn how hardware components communicate
-- Identify common computer hardware
-- Understand upgrade and troubleshooting concepts
-- Build a strong foundation for CompTIA A+ and future cybersecurity studies
+- Understand the purpose of every major hardware component
+- Learn how computer components communicate with one another
+- Understand motherboard architecture and firmware
+- Differentiate between various storage technologies
+- Learn hardware troubleshooting methodologies
+- Build a solid foundation for CompTIA A+ and future cybersecurity studies
 
 ---
 
 # 📚 Topics Covered
 
-- [ ] CPU (Central Processing Unit)
-- [ ] Motherboard
-- [ ] RAM (Memory)
-- [ ] ROM
-- [ ] Cache Memory
-- [ ] Power Supply Unit (PSU)
-- [ ] Hard Disk Drive (HDD)
-- [ ] Solid State Drive (SSD)
-- [ ] NVMe Storage
-- [ ] Optical Drives
-- [ ] Expansion Cards
-- [ ] BIOS / UEFI
-- [ ] Cooling Systems
-- [ ] Ports & Connectors
-- [ ] Peripheral Devices
+- [x] Introduction to Computer Hardware
+- [x] CPU (Central Processing Unit)
+- [x] Motherboard
+- [x] RAM (Memory)
+- [x] ROM
+- [x] Cache Memory
+- [x] Power Supply Unit (PSU)
+- [x] Hard Disk Drives (HDD)
+- [x] Solid State Drives (SSD)
+- [x] NVMe Storage
+- [x] Optical Drives
+- [x] Expansion Cards
+- [x] BIOS / UEFI
+- [x] Cooling Systems
+- [x] Ports & Connectors
+- [x] Mobile Devices
+- [x] Peripheral Devices
+- [x] Hardware Troubleshooting
 
 ---
 
-# 📂 Documentation
+# 📂 Repository Structure
 
-| File | Purpose |
-|------|---------|
-| Theory.md | Concepts and explanations |
-| Practical.md | Hands-on activities |
-| Commands.md | Useful Windows & Linux commands |
-| Labs.md | Practical labs and exercises |
-| Questions.md | Questions to research |
-| Resources.md | Books, videos, documentation, and references |
-| Screenshots/ | Images from labs and demonstrations |
-| Files/ | Supporting documents and PDFs |
+| Folder | Purpose |
+|----------|---------|
+| 📖 Theory | Detailed study notes and concepts |
+| 🧪 Labs | Practical exercises and hands-on labs |
+| 📄 Files | PDFs, handwritten notes, and reference material |
+| 📝 Questions | Questions for revision and research |
+| 📚 Resources | Books, videos, documentation, and websites |
+| 💻 Commands | Useful Windows and Linux commands |
+| 📋 CheatSheets | Quick revision sheets |
+| 🖼️ Screenshots | Images, diagrams, and lab screenshots |
 
 ---
 
@@ -61,49 +65,72 @@ This section serves as the central hub for all notes, labs, commands, resources,
 
 | Activity | Status |
 |----------|:------:|
-| Identify internal components | ⬜ |
-| View system specifications | ⬜ |
-| Check BIOS/UEFI | ⬜ |
-| Identify RAM modules | ⬜ |
-| Identify storage devices | ⬜ |
-| Open desktop computer | ⬜ |
+| Identify internal computer components | ✅ |
+| Understand motherboard layout | ✅ |
+| View system specifications | ✅ |
+| Study BIOS / UEFI firmware | ✅ |
+| Identify RAM and storage devices | ✅ |
+| Learn hardware troubleshooting process | ✅ |
+| Understand mobile device hardware | ✅ |
+| Study ports and peripheral devices | ✅ |
 
 ---
 
-# 🎓 Related Certification
+# 🎓 Certification Alignment
 
-- CompTIA A+ Core 1
+This module supports preparation for:
+
+- ✅ CompTIA A+ Core 1 (220-1101)
 
 ---
 
-# 📚 Learning Sources
+# 📚 Learning Resources
 
-This topic will be studied using:
+The documentation in this module is based on knowledge acquired from:
 
 - Professor Messer
 - Jason Dion
 - Mike Meyers
-- CompTIA A+ Objectives
+- CompTIA A+ Exam Objectives
 - Microsoft Learn
-- Official Documentation
-- Personal Lab
+- Official Vendor Documentation
+- Personal Research
+- Hands-on Practice
 
 ---
 
-# 📅 Progress
+# 📅 Module Status
 
-**Status:** 🟨 In Progress
+| Status | Started | Completed |
+|:------:|:-------:|:---------:|
+| ✅ Completed | July 2026 | **100%** |
 
-**Started:** July 2026
+---
 
-**Completed:** 0%
+# 🏆 Module Completion
+
+This is the **first completed module** in my Cybersecurity Roadmap.
+
+By completing this section, I developed a strong understanding of computer hardware, firmware, storage technologies, expansion devices, mobile hardware, and troubleshooting techniques that will support every future cybersecurity topic.
 
 ---
 
 # 📝 Notes
 
-As I continue learning, this section will link to detailed notes and practical work stored in the files within this folder.
+All detailed documentation for this module is organized inside the folders within this directory.
+
+This section serves as the entry point to all theory, practical labs, resources, reference material, handwritten notes, and supporting files related to Computer Hardware.
 
 ---
 
-> "Strong cybersecurity professionals begin with strong IT fundamentals."
+# 🚀 Next Module
+
+With Computer Hardware completed, the next step is learning how computers communicate over local networks and the Internet.
+
+➡️ **Continue to:** **[Networking](../../02-Networking/README.md)**
+
+Alongside Networking, I am also studying Linux to build practical command-line skills that will be used throughout my cybersecurity journey.
+
+---
+
+> *"Before securing systems, you must first understand how they work."*
