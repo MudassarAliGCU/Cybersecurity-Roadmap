@@ -209,7 +209,7 @@ Ethernet ports use the **RJ-45 connector** and remain the backbone of wired loca
 > 🛡️ **Cybersecurity Relevance**
 > Ethernet ports are a common target for **physical network attacks**, such as plugging in rogue devices, network taps, or packet sniffers directly into wall jacks or switches during a red-team engagement.
 
-![Rear I/O Panel](../../Screenshots/Rear-IO-Panel.png)
+
 
 ---
 
@@ -300,7 +300,7 @@ SATA remains common for HDDs and budget SSDs, though it is increasingly replaced
 > ⚠️ **Common Confusion**
 > Not all M.2 slots and drives are interchangeable — an NVMe drive will not work in a SATA-only M.2 slot, and vice versa. Always check motherboard documentation.
 
-![Motherboard Ports](../../Screenshots/Motherboard-Ports.png)
+
 
 ---
 
