@@ -283,18 +283,18 @@ Every expansion card, regardless of its purpose, shares a common physical struct
 
 ```
         ┌───────────────────────────────────────────┐
-        │                Cooling / Heatsink          │
-        │  ┌───────────────────────────────────┐     │
-        │  │         Controller Chip / ASIC      │    │
-        │  └───────────────────────────────────┘     │
-        │                                             │
-        │   ●  ●  ●  ●   (Ports facing outward)       │
-        │                                             │
-        │            Printed Circuit Board (PCB)      │
-        │                                             │
-        └───────────────┬─────────────────────────────┘
-                         │  Edge Connector (Gold Fingers)
-                         ▼
+        │                Cooling / Heatsink         │
+        │   ┌───────────────────────────────────┐   │
+        │   │       Controller Chip / ASIC      │   │
+        │   └───────────────────────────────────┘   │
+        │                                           │
+        │   ●  ●  ●  ● (Ports facing outward)       │
+        │                                           │
+        │         Printed Circuit Board (PCB)       │
+        │                                           │
+        └───────────────┬───────────────────────────┘
+                        │  Edge Connector (Gold Fingers)
+                        ▼
         ================================================
                     Motherboard PCIe Slot
 ```
@@ -623,4 +623,8 @@ Now that you understand how expansion cards extend a computer's internal capabil
 
 The next chapter explores the physical interfaces used to connect peripherals, displays, storage devices, and networks, including USB, HDMI, DisplayPort, Ethernet, Thunderbolt, and audio connectors.
 
-➡️ **Continue to:** **[Ports & Connectors](../10-Ports-Connectors/)**
+➡️ **Continue to:** **[Ports & Connectors](../11-Ports-Connectors/)**
+
+---
+---
+
