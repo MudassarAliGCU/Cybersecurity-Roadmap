@@ -622,7 +622,7 @@ Cybersecurity Roadmap
 
 ---
 
-# ➡️ Next Lesson: Repeater
+# ➡️ Next Lesson: [📡 Repeater](Repeater.md)
 
 You've now gained a high-level understanding of the major network devices used in modern computer networks. You know that each device has a specific responsibility, but before exploring intelligent devices like switches and routers, it's important to begin with the simplest building block.
 
@@ -638,3 +638,5 @@ In the next chapter, you'll learn:
 - Why repeaters became an important milestone in the evolution of computer networks
 
 Understanding repeaters will also help you appreciate why more advanced devices such as **hubs, bridges, and switches** were later developed to solve additional networking challenges.
+
+\
