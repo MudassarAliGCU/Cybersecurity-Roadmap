@@ -3,12 +3,17 @@
 > *A router is the device that makes communication between different networks possible. It examines IP addresses, chooses the best path for packets, and acts as the gateway that connects local networks to the rest of the world.*
 
 ---
+<div align="center">
 
-![Layer](https://img.shields.io/badge/OSI-Layer%203-blue)
-![Device](https://img.shields.io/badge/Device-Router-success)
-![Level](https://img.shields.io/badge/Level-Beginner-brightgreen)
-![Reading Time](https://img.shields.io/badge/Reading-25--35%20minutes-orange)
-![Prerequisites](https://img.shields.io/badge/Prerequisites-Switch%20%26%20IP%20Basics-lightgrey)
+![Module](https://img.shields.io/badge/Module-02%20Networking-blue?style=for-the-badge)
+![Device](https://img.shields.io/badge/Device-Router-success?style=for-the-badge)
+![OSI Layer](https://img.shields.io/badge/OSI-Layer%203%20(Network)-informational?style=for-the-badge)
+
+![Difficulty](https://img.shields.io/badge/Difficulty-Beginner-brightgreen?style=for-the-badge)
+![Reading Time](https://img.shields.io/badge/Reading-35--40%20Minutes-orange?style=for-the-badge)
+![Prerequisites](https://img.shields.io/badge/Prerequisites-Switch%20%7C%20IP%20Addressing%20%7C%20OSI%20Model-purple?style=for-the-badge)
+
+</div>
 
 ---
 
