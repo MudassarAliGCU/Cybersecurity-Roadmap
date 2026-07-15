@@ -1975,102 +1975,142 @@ Thinking coaxial cable is obsolete.
 While uncommon in modern Ethernet LANs, coaxial cable is still widely used in cable TV, cable internet, CCTV, satellite systems, and RF communication.
 
 ---
+# 📖 Module Progress
 
-# 📖 Further Reading
+The **Network Media** chapter is designed to build your understanding of the physical technologies that carry network data.
 
-If you'd like to deepen your understanding, consider exploring:
+So far, you have completed:
 
-- Electromagnetic Interference (EMI)
-- Signal Attenuation
-- Impedance Matching
-- Radio Frequency (RF) Transmission
-- Cable Television Infrastructure
-- DOCSIS Technology
-- Fiber Optic Communication
-
-These topics build directly on the concepts introduced in this chapter.
+| Status | Lesson | What You Learned |
+|---------|--------|------------------|
+| ✅ | **README.md** | Overview of network transmission media and learning objectives |
+| ✅ | **Copper Cables.md** | Electrical signaling, twisted-pair technology, Ethernet categories, RJ-45 connectors, installation best practices, and cybersecurity considerations |
+| ✅ | **Coaxial Cable.md** | Cable structure, shielding, impedance, connectors, applications, advantages, disadvantages, and real-world networking uses |
+| ⏭️ | **Fiber Optic Cable.md** | Learn how light transmits data at extremely high speeds over long distances |
+| ⏳ | **Connectors.md** | Explore common network connectors and how they interface with networking devices |
+| ⏳ | **Ethernet Standards.md** | Understand Ethernet speeds, IEEE standards, and modern LAN technologies |
+| ⏳ | **Wireless Standards.md** | Learn how Wi-Fi standards evolved and how wireless communication works |
 
 ---
 
-# 🚀 What's Next?
+> 💡 **Learning Milestone**
+>
+> You now understand two of the most important wired transmission media in networking:
+>
+> - **Twisted-Pair Copper Cable**, the standard for modern Ethernet LANs.
+> - **Coaxial Cable**, the shielded medium that revolutionized television, broadband Internet, and RF communications.
+>
+> The next lesson introduces the fastest and most advanced transmission medium used in today's networking infrastructure: **Fiber Optic Cable**.
+
 ---
 
-# 🚀 Continue Your Learning Journey
+# 🚀 Continue Your Journey
 
 Congratulations! 🎉
 
-You have successfully completed the **Coaxial Cable** chapter.
+You have successfully completed the **Coaxial Cable** lesson.
 
-By now, you understand:
+You now understand:
 
-- ✅ What a coaxial cable is
-- ✅ How its internal structure works
-- ✅ Why shielding is important
-- ✅ Different types of coaxial cables
-- ✅ Common connectors
-- ✅ Advantages and disadvantages
-- ✅ Real-world applications
-- ✅ How it compares with other transmission media
+- ✅ The structure of a coaxial cable.
+- ✅ How shielding protects electrical signals from interference.
+- ✅ The purpose of each internal layer.
+- ✅ Common coaxial cable types.
+- ✅ BNC, F-Type, and N-Type connectors.
+- ✅ Real-world networking applications.
+- ✅ Advantages and disadvantages.
+- ✅ How coaxial compares with twisted-pair cabling.
+- ✅ Why coaxial cable is still widely used despite modern Ethernet.
 
-The next step is to learn about the fastest and most advanced wired transmission medium used in modern networks.
-
-➡️ **Next Chapter:** **[Fiber Optic Cable](03-Fiber%20Optic%20Cable.md)**
-
-In the next chapter, you'll explore:
-
-- 💡 How data travels using light instead of electricity
-- 🌈 Total Internal Reflection (TIR)
-- 🔬 Structure of a fiber optic cable
-- 📡 Single-mode vs Multi-mode fiber
-- 🔌 Fiber optic connectors
-- ⚡ Fiber speeds and bandwidth
-- 📉 Advantages and disadvantages
-- 🌍 Real-world applications
-- ⚖️ Comparison with copper and coaxial cables
+These concepts strengthen your understanding of guided transmission media and prepare you for the next major leap in networking technology.
 
 ---
 
-# 📚 Module Progress
+# 🔄 Why Learn About Fiber Optic Cables Next?
 
-| Status | Chapter |
-|---------|---------|
-| ✅ Completed | [01-Copper Cables](01-Copper%20Cables.md) |
-| ✅ Completed | **02-Coaxial Cable** |
-| ⏭️ Next | [03-Fiber Optic Cable](03-Fiber%20Optic%20Cable.md) |
+Both **Twisted-Pair** and **Coaxial** cables transmit data using **electrical signals**.
 
----
+However, electrical transmission has limitations:
 
-## ⬅️ Previous Chapter
+- Signal attenuation
+- Electromagnetic interference (EMI)
+- Crosstalk
+- Limited bandwidth
+- Shorter transmission distances
 
-**← [01-Copper Cables](01-Copper%20Cables.md)**
+To overcome these challenges, modern networks increasingly rely on **Fiber Optic Cables**, which transmit information using **light instead of electricity**.
 
----
+Fiber optics provide:
 
-## 📖 Return to Module
+- ⚡ Extremely high bandwidth
+- 🚀 Multi-gigabit and terabit speeds
+- 📏 Long-distance communication
+- 🛡️ Immunity to electromagnetic interference
+- 🔒 Improved resistance to signal interception
+- 🌍 The backbone of the modern Internet
 
-**🏠 [Network Media README](README.md)**
-
----
-
-> **"Networking has evolved from simple copper wires to ultra-fast optical fibers. Understanding each transmission medium helps you choose the right technology for every networking scenario."**
-
-**Next Lesson → [03-Fiber Optic Cable](03-Fiber%20Optic%20Cable.md)** 🚀
-There, you'll learn:
-
-- How light transmits data
-- Fiber optic cable structure
-- Single-mode vs Multi-mode fiber
-- Optical connectors
-- Advantages and disadvantages
-- Fiber applications in modern networking
-- Why fiber is the backbone of today's high-speed internet
+Understanding fiber optics will help you appreciate why today's data centers, ISPs, cloud providers, and enterprise networks depend on optical communication.
 
 ---
 
-> **Progress Update**
+```mermaid
+flowchart LR
 
-✅ Copper Cables  
-✅ Coaxial Cable  
-➡️ Fiber Optic Cable *(Next)*
+A["🔌 Copper Cables<br/>(Twisted Pair)"]
+--> B["📡 Coaxial Cables"]
+--> C["💡 Fiber Optic Cables"]
+
+style C fill:#FFF2CC
+```
+
+---
+
+# 🎯 What You'll Learn Next
+
+In the next lesson, you'll explore:
+
+- How light carries data through optical fibers.
+- The structure of a fiber optic cable.
+- Total Internal Reflection (TIR).
+- Single-mode vs Multi-mode fiber.
+- Optical connectors.
+- Fiber optic transmission standards.
+- Advantages and disadvantages.
+- Real-world deployments.
+- Cybersecurity considerations.
+- Comparisons with copper and coaxial cables.
+
+By the end of the lesson, you'll understand why fiber optics have become the foundation of modern high-speed communication networks.
+
+---
+
+<!--
+Image Description:
+Create an educational comparison illustration showing Twisted Pair Cable, Coaxial Cable, and Fiber Optic Cable. Highlight the Fiber Optic Cable as the next lesson. Include icons representing high-speed Internet, cloud computing, data centers, and global communication.
+
+Suggested Search Keywords:
+fiber optic networking infographic
+twisted pair vs coaxial vs fiber
+fiber optic cable illustration
+modern network transmission media
+-->
+
+<p align="center">
+<img src="Images/next_fiber_optic_cable.png" width="850">
+</p>
+
+---
+
+# 📚 Continue to the Next Lesson
+
+The evolution of networking continues with **Fiber Optic Cable**, the technology that transformed global communications.
+
+Unlike copper-based media, fiber optics transmit data using pulses of light, enabling incredible speeds, massive bandwidth, and long-distance communication with minimal signal loss.
+
+Mastering fiber optics will prepare you to understand modern enterprise networks, cloud infrastructure, Internet Service Providers (ISPs), submarine communication cables, and the future of networking.
+
+## ➜ Continue to the next lesson:
+
+# **[💡 Fiber Optic Cable.md](03-Fiber%20Optic%20Cable.md)** →
 
 ---
