@@ -3,12 +3,61 @@
 > *Every device on a network needs an IP address to communicate, but not every device receives its IP address in the same way. In this chapter, you'll learn the difference between **Static** and **Dynamic** IP addresses, how **DHCP** automatically assigns addresses, when each method should be used, and why understanding IP assignment is essential for networking, system administration, and cybersecurity.*
 
 ---
+# 🌐 APIPA (Automatic Private IP Addressing)
 
-![Level](https://img.shields.io/badge/Level-Beginner-2ea44f?style=for-the-badge)
-![Module](https://img.shields.io/badge/Module-IP%20Addressing-0969da?style=for-the-badge)
-![Lesson](https://img.shields.io/badge/Lesson-05-orange?style=for-the-badge)
-![Reading Time](https://img.shields.io/badge/Reading-40--50%20Minutes-blue?style=for-the-badge)
-![Hands-on](https://img.shields.io/badge/Lab-Yes-success?style=for-the-badge)
+> *Learn what APIPA is, why operating systems use it, how it works, its limitations, how to recognize an APIPA address, and how to troubleshoot DHCP failures.*
+
+---
+
+![Difficulty](https://img.shields.io/badge/Difficulty-Beginner-green)
+![Reading Time](https://img.shields.io/badge/Reading%20Time-25--35%20Minutes-blue)
+![Prerequisites](https://img.shields.io/badge/Prerequisites-IPv4%20%7C%20DHCP-orange)
+![Lab](https://img.shields.io/badge/Hands--On-Yes-success)
+
+---
+
+# 📖 Table of Contents
+
+- Why This Chapter Matters
+- Learning Objectives
+- What Is APIPA?
+- Why APIPA Exists
+- When Does APIPA Activate?
+- APIPA Address Range (169.254.0.0/16)
+- How APIPA Works
+- APIPA Address Assignment Process
+- Duplicate Address Detection (DAD)
+- APIPA Limitations
+- APIPA vs DHCP
+- APIPA vs Static IP Address
+- Real-World Example
+- Cybersecurity Perspective
+- Mini Lab
+- Quick Check
+- Knowledge Check
+- Challenge Questions
+- Chapter Summary
+- Next Chapter Preview
+- Module Progress
+- Chapter Navigation
+- Continue Your Learning
+
+---
+
+# 🎯 Learning Objectives
+
+After completing this chapter, you will be able to:
+
+- Explain what APIPA is.
+- Understand why APIPA was created.
+- Identify APIPA addresses.
+- Explain when APIPA is used.
+- Describe how Windows automatically assigns APIPA addresses.
+- Understand Duplicate Address Detection (DAD).
+- Compare APIPA with DHCP.
+- Compare APIPA with Static IP addressing.
+- Troubleshoot common APIPA-related problems.
+- Explain the cybersecurity relevance of APIPA.
 
 ---
 
