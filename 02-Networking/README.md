@@ -254,18 +254,17 @@ Establishes the deep networking fluency required to understand exploitation path
 ```
 
 ---
-
 # 📈 Progress Tracker
 
 > Track your progress as you work through the Networking curriculum. A chapter is considered **complete** only after you have finished the notes, completed the hands-on labs, written a learning summary or blog post, and pushed your work to GitHub.
 
 | Chapter | Notes | Labs | Blog | GitHub | Revision | Status |
 |:--------|:-----:|:----:|:----:|:------:|:--------:|:------:|
-| 📖 Introduction | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⏳ |
-| 🧩 Network Models | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⏳ |
-| 🖧 Network Devices | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⏳ |
-| 🔌 Network Media | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⏳ |
-| 🌍 IP Addressing | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⏳ |
+| 📖 Introduction | ✅ | ⬜ | ⬜ | ✅ | ⬜ | ✅ |
+| 🧩 Network Models | ✅ | ⬜ | ⬜ | ✅ | ⬜ | ✅ |
+| 🖧 Network Devices | ✅ | ⬜ | ⬜ | ✅ | ⬜ | ✅ |
+| 🔌 Network Media | ✅ | ⬜ | ⬜ | ✅ | ⬜ | ✅ |
+| 🌍 IP Addressing | ✅ | ⬜ | ⬜ | ✅ | ⬜ | ✅ |
 | 📡 Network Protocols | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⏳ |
 | 🚪 Ports & Services | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⏳ |
 | 🔀 Routing & Switching | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⏳ |
@@ -289,14 +288,13 @@ Establishes the deep networking fluency required to understand exploitation path
 
 | Milestone | Progress |
 |-----------|----------|
-| 📖 Chapters Completed | **0 / 21** |
+| 📖 Chapters Completed | **5 / 21** |
 | 🧪 Labs Completed | **0 / Planned** |
 | 🚀 Projects Completed | **0 / 8** |
 | 📝 Blogs Written | **0 / 12+** |
-| 💾 GitHub Commits | **0** |
+| 💾 GitHub Commits | **5+** |
 | 🔄 Revision Cycles | **0** |
-| 🏆 Completion | **0%** |
-
+| 🏆 Completion | **24%** |
 ---
 
 ## ✅ Definition of Completion
