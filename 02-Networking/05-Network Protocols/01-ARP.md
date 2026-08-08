@@ -3597,28 +3597,28 @@ By understanding DHCP, you'll discover how modern networks automatically configu
 | # | Lesson | Status |
 |---|--------|:------:|
 | ✅ 01 | [ARP](01-ARP.md) | **Completed** |
-| ⏳ 02 | [DHCP](02-DHCP.md) | Next |
-| ⏳ 03 | [DNS](03-DNS.md) | Upcoming |
-| ⏳ 04 | [ICMP](04-ICMP.md) | Upcoming |
-| ⏳ 05 | [TCP](05-TCP.md) | Upcoming |
-| ⏳ 06 | [UDP](06-UDP.md) | Upcoming |
-| ⏳ 07 | [HTTP](07-HTTP.md) | Upcoming |
-| ⏳ 08 | [HTTPS](08-HTTPS.md) | Upcoming |
-| ⏳ 09 | [FTP](09-FTP.md) | Upcoming |
-| ⏳ 10 | [SFTP](10-SFTP.md) | Upcoming |
+| ⏳ 02 | [ICMP](02-ICMP.md) | Next |
+| ⏳ 03 | [TCP](03-TCP.md) | Upcoming |
+| ⏳ 04 | [UDP](04-UDP.md) | Upcoming |
+| ⏳ 05 | [DNS](05-DNS.md) | Upcoming |
+| ⏳ 06 | [DHCP](06-DHCP.md) | Upcoming |
+| ⏳ 07 | [NTP](07-NTP.md) | Upcoming |
+| ⏳ 08 | [HTTP](08-HTTP.md) | Upcoming |
+| ⏳ 09 | [HTTPS](09-HTPPS.md) | Upcoming |
+| ⏳ 10 | [FTP](10-FTP.md) | Upcoming |
 | ⏳ 11 | [TFTP](11-TFTP.md) | Upcoming |
-| ⏳ 12 | [SMTP](12-SMTP.md) | Upcoming |
-| ⏳ 13 | [POP3](13-POP3.md) | Upcoming |
-| ⏳ 14 | [IMAP](14-IMAP.md) | Upcoming |
-| ⏳ 15 | [SSH](15-SSH.md) | Upcoming |
-| ⏳ 16 | [Telnet](16-Telnet.md) | Upcoming |
-| ⏳ 17 | [SNMP](17-SNMP.md) | Upcoming |
-| ⏳ 18 | [LDAP](18-LDAP.md) | Upcoming |
-| ⏳ 19 | [Kerberos](19-Kerberos.md) | Upcoming |
-| ⏳ 20 | [SMB](20-SMB.md) | Upcoming |
-| ⏳ 21 | [NFS](21-NFS.md) | Upcoming |
+| ⏳ 12 | [SFTP](12-SFTP.md) | Upcoming |
+| ⏳ 13 | [SSH](13-SSH.md) | Upcoming |
+| ⏳ 14 | [Telnet](14-Telnet.md) | Upcoming |
+| ⏳ 15 | [SSH](15-SMTP.md) | Upcoming |
+| ⏳ 16 | [Telnet](16-POP3.md) | Upcoming |
+| ⏳ 17 | [SNMP](17-IMAP.md) | Upcoming |
+| ⏳ 18 | [LDAP](18-SMB.md) | Upcoming |
+| ⏳ 19 | [Kerberos](19-NFS.md) | Upcoming |
+| ⏳ 20 | [SMB](20-LDAP.md) | Upcoming |
+| ⏳ 21 | [NFS](21-Kerberos.md) | Upcoming |
 | ⏳ 22 | [RDP](22-RDP.md) | Upcoming |
-| ⏳ 23 | [NTP](23-NTP.md) | Upcoming |
+| ⏳ 23 | [SNMP](23-SNMP.md) | Upcoming |
 
 ---
 
